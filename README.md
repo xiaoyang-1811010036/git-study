@@ -1,2 +1,1 @@
-# git-study
-Git课程
+ Git 操作很简单！
